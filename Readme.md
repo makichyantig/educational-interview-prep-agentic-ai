@@ -83,24 +83,24 @@ It’s designed to make **interview preparation accessible, effective, and engag
     <tbody>
         <tr>
             <td width="50%">
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/ef85530d-d7fa-4320-b03d-25aef95d6280" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
             <td width="50%">
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/3e9f68cc-53bc-46fe-b2b2-24c389ccdc78" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
         </tr>
         <tr>
             <td width="50%">
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/f13792fb-bdd5-40bc-bce0-7b9d7df3ebec" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
             <td width="50%">
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/f635c8e7-8d74-4ccf-98b7-8a83192fc96c" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
@@ -112,19 +112,19 @@ It’s designed to make **interview preparation accessible, effective, and engag
     <tbody>
         <tr>
             <td width="50%">
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/a785cf9c-bb04-4312-a920-e22e8639301f" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
             <td width="50%">
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/9991ba9b-722c-468b-8b5a-1eafbb159cdd" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
         </tr>
         <tr>
             <td width="50%">
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/facad24b-fe01-4531-b36b-780be2289672" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
